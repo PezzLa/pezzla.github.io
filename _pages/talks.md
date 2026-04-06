@@ -8,6 +8,8 @@ classes: wide
 
 Here is where I shared my research during these years. Invited talks marked with an asterisk.
 
+(List incomplete! Sorry for the trouble :( )
+
 {% for post in site.talks reversed %}
   {% include archive-single.html %}
 {% endfor %}
