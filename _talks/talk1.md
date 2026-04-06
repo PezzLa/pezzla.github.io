@@ -2,7 +2,7 @@
 title: "1) Quasi Normal Modes of black holes surrounded by dark matter halos"
 collection: talks
 type: "Contributed talk"
-venue: "Joint PRIN (A. Maselli, GSSI - D. Gerosa, Milano Biccoca) Meeting \textit{Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)}"
+venue: "Joint PRIN (A. Maselli, GSSI - D. Gerosa, Milano Biccoca) Meeting <em>Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)</em>"
 date: 2024-04-18
 link: "https://davidegerosa.com/lautaro/"
 location: "University of Milano-Bicocca"
