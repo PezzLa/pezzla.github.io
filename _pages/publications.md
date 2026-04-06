@@ -16,6 +16,4 @@ You can also find my papers on  <a href="https://inspirehep.net/authors/2863689"
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
