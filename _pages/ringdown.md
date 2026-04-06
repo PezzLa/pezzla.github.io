@@ -39,11 +39,10 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
     <td>
       <b>Kerr excitation Coefficients</b><br><br>
       <b>Data format:</b><br>
-      <code>
-      a/M, M ω_R, M ω_I,<br>
-      Re(B_lmn^SN), Im(B_lmn^SN),<br>
-      m_p^-1 Re(C_lmn^SN), m_p^-1 Im(C_lmn^SN)
-      </code>
+      $a/M, M ω_R, M ω_I,<br>
+      Re(B_{\ell mn}^SN), Im(B_{\ell mn}^SN),<br>
+      m_p^-1 Re(C_{\ell mn}), m_p^-1 Im(C_{\ell mn})
+      $
     </td>
     <td>
       <a href="https://arxiv.org/abs/2512.07959" target="_blank" rel="noopener">
