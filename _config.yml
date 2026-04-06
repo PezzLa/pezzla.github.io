@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Laura Pezzella"
-  avatar           : "/assets/images/my_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at Gran Sasso Science Institute"
   location         : "L'Aquila, Italy"
   employer         : "Gran Sasso Science Institute"
