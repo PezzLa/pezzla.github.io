@@ -247,7 +247,7 @@ function makePrettyarXiv(feed)
 	html += '<div id="feedtitle" style="text-align:center; font-size:9px">';
 	if (extra_entries) {
 	    //html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries, additional entries available at <a style="color:#008CBA; margin-bottom:0; padding-right:0; padding-top:0; padding-bottom:0;" href="https://arxiv.org/a/'+arxiv_authorid+'">'+'arXiv.org'+'</a> ]</span>\n';
-        html +='<br /><span style="font-size:80%"><a style="color:#008CBA;" href="https://arxiv.org/a/'+arxiv_authorid+'" target="_blank" rel="noopener">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</a></span>';
+        html +='<br /><span style="font-size:80%"><a style="color:#CCCCFF;" href="https://arxiv.org/a/'+arxiv_authorid+'" target="_blank" rel="noopener">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</a></span>';
 	} else {
 		html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</span>';
 	}
