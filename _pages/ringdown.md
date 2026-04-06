@@ -25,7 +25,7 @@ Here you can find data for:
 
 The data listed below are freely available, but remember to reference the original work(s)!
 
-For additional requests, send me a mail at [laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it) .
+For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it) .
 
 
 <table>
