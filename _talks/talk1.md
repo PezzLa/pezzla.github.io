@@ -1,13 +1,13 @@
 ---
-title: "1) Cosmology with LIGO/Virgo dark sirens and galaxy catalogs"
+title: "1) Quasi Normal Modes of black holes surrounded by dark matter halos"
 collection: talks
 type: "Contributed talk"
-venue: "First EuCAPT Annual Symposium"
-date: 2021-05-06
-link: "https://indico.cern.ch/event/853904/"
-location: "Online"
+venue: "Joint PRIN (A. Maselli, GSSI - D. Gerosa, Milano Biccoca) Meeting \textit{Linking Advances in our Understanding of Theoretical Astrophysics and Relativity to Observations (LAUTARO)}"
+date: 2024-04-18
+link: "https://davidegerosa.com/lautaro/"
+location: "University of Milano-Bicocca"
 ---
 
-I talked about the correlation of GWs and galaxy catalogs to measure H<sub>0</sub> and the modified gravity parameter &Xi;<sub>0</sub>.
+I talked about the effect of the presence of Dark Matter Halos on the Quasi-Normal Modes &Xi;<sub>0</sub>.
 
-Based on <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/08/026" target="_blank" rel="noopener">JCAP 08 (2021), p. 026</a>.
+Based on <a href="https://doi.org/10.1103/PhysRevD.111.064026" target="_blank" rel="noopener">Phys. Rev. D 111, 064026 (2025), p. 026</a>.
