@@ -9,14 +9,10 @@ classes: wide
 If you are interested in my research or simply want to know more about gravitational-wave physics and cosmology, here is my contact info.
 
 ### Email 
-[fiacovelli@jhu.edu](mailto:fiacovelli@jhu.edu)
-
-[Old: [Francesco.Iacovelli@unige.ch](mailto:Francesco.Iacovelli@unige.ch)]
+[laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it)
 
 ### Address
 
-Department of Physics and Astronomy, The Johns Hopkins University
+Gran Sasso Science Institute - Viale L. Rendina, 26-28
 
-3400 N. Charles Street, Baltimore, MD 21218
-
-**Office building:** Bloomberg Center for Physics and Astronomy, room 441.
+67100 L'Aquila, Italia
