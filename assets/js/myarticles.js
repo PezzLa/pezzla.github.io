@@ -61,7 +61,7 @@ function manageDefaults()
 		if (typeof arxiv_bg_color === 'undefined') {
 			arxiv_bg_color = "85BC8F"; }
 		if (typeof arxiv_border_color === 'undefined') {
-			arxiv_border_color = "006400"; }
+			arxiv_border_color = "CCFFFF"; }
 		if (typeof arxiv_entry_color === 'undefined') {
 			arxiv_entry_color = "FFFFFF"; }
 	}
@@ -199,7 +199,7 @@ function makearXiv(feed)
 function makePrettyarXiv(feed)
 {
 	//First add the feed title inside of a div
-	var html = '<div id="arxivcontainer" style="width:250px; border:solid 2px #' + arxiv_border_color+';font-family:sans-serif;font-size:10px; background-color:#' + arxiv_bg_color +';border-radius: 8px;">';
+	var html = '<div id="arxivcontainer" style="width:250px; border:solid 2px #CCCCFF;font-family:sans-serif;font-size:10px; background-color:#' + arxiv_bg_color +';border-radius: 8px;">';
 	if (arxiv_includeTitle == 1) {
 		html += '<div id="feedtitle" style="font-size:14px; padding-top:5px; padding-bottom:5px; text-align:center;">';
 		//Title has an &apos; in it which won't display correctly on some browsers (IE being 
@@ -225,7 +225,7 @@ function makePrettyarXiv(feed)
 		//First add the title-link element as a entrytitle div
 		html += '<div class="entry" style="padding-left:6px;width:244px;background-color:#'+arxiv_entry_color+'">';
 		//Title and authors
-		html += '<div class="entrytitle"><a style="color:#CCCCFF;" href="' + feed.entries[x].id + '" target="_blank" rel="noopener">' + feed.entries[x].title + '</a></div>';
+		html += '<div class="entrytitle"><a style="color:#008CBA;" href="' + feed.entries[x].id + '" target="_blank" rel="noopener">' + feed.entries[x].title + '</a></div>';
 		// Add only up to 10 authors (et al. if more)
 		if ((feed.entries[x].authors.split(',').length) > 10) {
 			let authorsArray = feed.entries[x].authors.split(',');
@@ -246,8 +246,8 @@ function makePrettyarXiv(feed)
 	//html += '<div id="feedtitle" style="font-size:10px; padding-top:5px; padding-bottom:5px; text-align:center;">Powered by the arXiv.org <a href="https://arxiv.org/help/myarticles">myarticles</a> widget</div>';
 	html += '<div id="feedtitle" style="text-align:center; font-size:9px">';
 	if (extra_entries) {
-	    //html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries, additional entries available at <a style="color:#CCCCFF; margin-bottom:0; padding-right:0; padding-top:0; padding-bottom:0;" href="https://arxiv.org/a/'+arxiv_authorid+'">'+'arXiv.org'+'</a> ]</span>\n';
-        html +='<br /><span style="font-size:80%"><a style="color:#CCCCFF;" href="https://arxiv.org/a/'+arxiv_authorid+'" target="_blank" rel="noopener">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</a></span>';
+	    //html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries, additional entries available at <a style="color:#008CBA; margin-bottom:0; padding-right:0; padding-top:0; padding-bottom:0;" href="https://arxiv.org/a/'+arxiv_authorid+'">'+'arXiv.org'+'</a> ]</span>\n';
+        html +='<br /><span style="font-size:80%"><a style="color:#008CBA;" href="https://arxiv.org/a/'+arxiv_authorid+'" target="_blank" rel="noopener">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</a></span>';
 	} else {
 		html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</span>';
 	}
