@@ -45,7 +45,7 @@
 
       {% if author.employer %}
         <li>
-          <a href="https://www.jhu.edu" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.gssi.it/" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
             <i class="fas fa-fw fa-university" aria-hidden="true"></i> <span itemprop="name">{{ author.employer }}</span>
           </a>
         </li>
@@ -53,7 +53,7 @@
 
       {% if author.location %}
         <li>
-          <a href="https://www.google.com/maps/search/?api=1&query=Baltimore%2C+US" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.google.com/maps/search/?api=1&query=L'Aquila%2C+Italy" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
           </a>
         </li>
@@ -104,14 +104,6 @@
         <li>
           <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
             <i class="fab fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.linkedin %}
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
           </a>
         </li>
       {% endif %}
@@ -196,6 +188,14 @@
         </li>
       {% endif %}
 
+      {% if author.linkedin %}
+        <li>
+          <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.lastfm %}
         <li>
           <a href="https://last.fm/user/{{ author.lastfm }}" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
