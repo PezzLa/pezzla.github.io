@@ -38,10 +38,8 @@ if (recid === "undefined") {
 
 ### Summary
 
-We evaluate the axial Quasi-Normal modes (QNMs) for a black hole (BH) embedded in a dark matter (DM) halo. No prior assumprion is made on the nature of the DM: its distribution is first assumed to be an analytical Hernquist profile, but the methodology is extended for the NFW and generical numerical distributions. Different methodological aspects are reviewed and extended, and we released a public code. 
+We evaluate the axial Quasi-Normal modes (QNMs) for a black hole (BH) embedded in a dark matter (DM) halo. No prior assumprion is made on the nature of the DM: its distribution is first assumed to be an analytical Hernquist profile, but the methodology is extended for the NFW and generical numerical distributions. Different methodological aspects are reviewed and extended, and we released a public code evaluating the QNMs using the Matrix Method. 
 
-### Contribution
-This work is part of my Master's thesis, and I contributed to writing parts of the accompanying code, studying in depth and handling the problem of extending the matrix method evaluation of the QNMs for a numerical DM halo, as well as producing the figures and results.
 
 ### Abstract
 We investigate the (axial) quasinormal modes of black holes embedded in generic matter profiles. Our results reveal that the axial QNMs experience a redshift when the black hole is surrounded by various matter environments, proportional to the compactness of the matter halo. Our calculations demonstrate that for static black holes embedded in galactic matter distributions, there exists a universal relation between the matter environment and the redshifted vacuum quasinormal modes. In particular, for dilute environments the leading order effect is a redshift 1+U of frequencies and damping times, with U \sim -{\cal C} the Newtonian potential of the environment at its center, which scales with its compactness {\cal C}.
