@@ -8,6 +8,8 @@ main:
     url: /talks/
   - title: "Codes"
     url: /code/
+  - title: "Ringdown"
+    url: /ringdown/
   - title: "CV"
     url: /cv/
   - title: "Contact"
