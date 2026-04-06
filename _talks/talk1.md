@@ -8,6 +8,6 @@ link: "https://davidegerosa.com/lautaro/"
 location: "University of Milano-Bicocca"
 ---
 
-I talked about the effect of the presence of Dark Matter Halos on the Quasi-Normal Modes &Xi;<sub>0</sub>.
+I talked about the effect of the presence of Dark Matter Halos on the Quasi-Normal Modes.
 
-Based on <a href="https://doi.org/10.1103/PhysRevD.111.064026" target="_blank" rel="noopener">Phys. Rev. D 111, 064026 (2025), p. 026</a>.
+Based on <a href="https://doi.org/10.1103/PhysRevD.111.064026" target="_blank" rel="noopener">Phys. Rev. D 111, 064026 (2025)</a>.
