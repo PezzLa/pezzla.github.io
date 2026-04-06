@@ -6,13 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-If you are interested in my research or simply want to know more about gravitational-wave physics and ringdown physics, here is my contact info.
+If you are interested in my research or simply want to know more about gravitational-wave and ringdown physics, here is my contact info.
 
 ### Email 
 [laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it)
 
 ### Address
 
-Gran Sasso Science Institute - Viale L. Rendina, 26-28
-
-67100 L'Aquila, Italia
+Gran Sasso Science Institute<br>
+Viale L. Rendina, 26-28<br>
+67100 L'Aquila, Italia<br>
