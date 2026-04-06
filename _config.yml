@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 minimal_mistakes_skin2   : "default"
 # Site Settings
 locale                   : "en-US"
-title                    : "Francesco Iacovelli"
+title                    : "Laura Pezzella"
 title_separator          : "-"
-name                     : "Francesco Iacovelli"
-description              : "Francesco Iacovelli's academic homepage"
-url                      : "https://francescoiacovelli.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Laura Pezzella"
+description              : "Laura Pezzella's academic homepage"
+url                      : "https://pezzla.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "FrancescoIacovelli/francescoiacovelli.github.io.git"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "PezzLa/pezzla.github.io.git" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -92,38 +92,30 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-gtag", "google-universal", "custom"
+  provider               : # false (default), "google", "google-gtag", "google-universal", "custom"
   google:
-    tracking_id          : "G-Q9G1GH82DF"
-    anonymize_ip         : true # true, false (default)
+    tracking_id          : 
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Francesco Iacovelli"
-  avatar           : "/assets/images/mypicture.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Research Scientist (Miller Postdoctoral Fellow) at Johns Hopkins University"
-  location         : "Baltimore, MD, U.S."
-  employer         : "Johns Hopkins University"
-  email            : "fiacovelli@jhu.edu"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : 
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "FrancescoIacovelli"
+  name             : "Laura Pezzella"
+  avatar           : "/assets/images/my_pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student at Gran Sasso Science Institute"
+  location         : "L'Aquila, Italy"
+  employer         : "Gran Sasso Science Institute"
+  email            : "laura.pezzella@gssi.it"
+  github           : "PezzLa"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "francesco-iacovelli-193317222" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  googlescholar    : "citations?user=aTpQvZAAAAAJ&hl=en"
-  orcid            : "0000-0002-4875-5862"
-  scopus           : "57222185012"
+  linkedin         : "pezzella-laura" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  googlescholar    : #"citations?user="
+  orcid            : "0009-0008-6357-6417"
+  scopus           : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -134,6 +126,40 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "laura.pezzella@gssi.it"
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0009-0008-6357-6417"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Laura-Pezzella-3"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/pezzella-laura/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PezzLa"
+
+# Site Footer
+footer:
+  links:
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0009-0008-6357-6417"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Laura-Pezzella-3"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/pezzella-laura/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PezzLa"
+  since: "2026"
 
 # Reading Files
 include:
@@ -276,9 +302,6 @@ defaults:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -300,13 +323,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single-teaching
       author_profile: true
   # _publications
   - scope:
