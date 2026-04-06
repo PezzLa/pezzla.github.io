@@ -37,16 +37,16 @@
 }
 
 .greedy-nav__toggle {
-	background-color: #008CBA;
+	background-color: #CCCCFF;
 }
 
 .greedy-nav .visible-links a:before {
-	background-color: #008CBA;
+	background-color: #CCCCFF;
 }
 
 .author__avatar img {
 	padding: 0px;
-	border: 2px solid #008CBA;
+	border: 2px solid #CCCCFF;
 	box-shadow: 1px 0px 5px 2px mix(#000, $background-color, 10%);
 }
 
@@ -100,7 +100,7 @@
 }
 
 .btn--custom {
-  border: 2.5px solid #008CBA;
+  border: 2.5px solid #CCCCFF;
   color: white;
   padding: 10px 20px;
   text-align: center;
@@ -111,7 +111,7 @@
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 8px;
-  background-color: #008CBA; 
+  background-color: #CCCCFF; 
 }
 
 .btn--custom:hover {
@@ -120,7 +120,7 @@
 
 blockquote {
   margin: 0em 0em 0em 0;
-  border-left: 0.25em solid #008CBA;
+  border-left: 0.25em solid #CCCCFF;
 }
 
 p.career {
@@ -138,23 +138,23 @@ p.career {
 
 .bibbase_group {
   font-style: oblique;
-  background-color: #008CBA;
+  background-color: #CCCCFF;
 }
 
 #bibbase .well {
-  background-color: #008CBA;
-  border: 1px solid #008CBA;
+  background-color: #CCCCFF;
+  border: 1px solid #CCCCFF;
   font-size: 11px;
 }
 
 #bibbase .well-small{
-  background-color: #008CBA;
-  border: 1px solid #008CBA;
+  background-color: #CCCCFF;
+  border: 1px solid #CCCCFF;
   font-size: 11px;
 }
 
 #bibbase_header .dropdown-menu>li>a:hover {
-  background: #008CBA;
+  background: #CCCCFF;
   transition-duration: 0s;
 }
 
@@ -162,18 +162,18 @@ p.career {
   background-image: none;
   text-shadow: none;
   background-repeat: none;
-  border-color: #008CBA;
+  border-color: #CCCCFF;
   box-shadow: none;
   line-height: 15px;
 }
 
 .form-control {
-  border: 2px solid #008CBA;
+  border: 2px solid #CCCCFF;
   max-width: fit-content(70%);
 }
 
 input:focus, textarea:focus{
-  border-color: #008CBA;
+  border-color: #CCCCFF;
 }
 
 .btn:hover, .btn:focus {
