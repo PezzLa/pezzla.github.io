@@ -31,8 +31,8 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
 <table style='font-family:"Georgia", serif; font-size:80%'>
   <tr>
     <th scope="col">Description</th>
-    <th scope="col"; align="center">Reference(s)</th>
-    <th scope="col" ;align="center">Download</th>
+    <th align="center">Reference(s)</th>
+    <th align="center">Download</th>
   </tr>
 
   <tr>
