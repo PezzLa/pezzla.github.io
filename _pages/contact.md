@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-If you are interested in my research or simply want to know more about gravitational-wave physics and cosmology, here is my contact info.
+If you are interested in my research or simply want to know more about gravitational-wave physics and ringdown physics, here is my contact info.
 
 ### Email 
 [laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it)
