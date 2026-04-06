@@ -23,29 +23,21 @@ Here you can find data for:
   <li> more to follow! </li>
 </ul> 
 
- table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-tr {
-  border-bottom: 1px solid #ddd;
-}
 
 <table>
   <tr>
-    <th>Description</th>
-    <th>Reference(s)</th>
-    <th>Download</th>
+    <th scope="col">Description</th>
+    <th scope="col">Reference(s)</th>
+    <th scope="col">Download</th>
   </tr>
   <tr>
-    <th>Kerr excitation Coefficients</th>
+    <td> <b> Kerr excitation Coefficients </b> <br>
+      Data format: <br>
+      $$a/M, M \omega_R, \ M \omega_I, \ \mathrm{Re}(B_{\ell mn}^{SN}), \ \mathrm{Im}(B_{\ell mn}^{SN}),$$ <br>
+      $$\ m_p^{-1}\ \mathrm{Re}(C_{\ell mn}^{SN}), \ m_p^{-1}\ \mathrm{Im}(C_{\ell mn}^{SN})$$ </td>
     <td> <a href="https://arxiv.org/abs/2512.07959" target="_blank" rel="noopener"> arXiv:2512.07959</a></td>
-    <td> <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l2" target="_blank" rel="noopener"> $$\ell=2 $$ </a></td>
-  </tr>
-    <tr>
-    <td>Data format:</td>
-    <td> &nbsp; </td>
-    <td> <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l3" target="_blank" rel="noopener"> $$\ell=3 $$ </a></td>
+    <td> <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l2" target="_blank" rel="noopener"> $$\ell=2 $$ </a> <br>
+    <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l3" target="_blank" rel="noopener"> $$\ell=3 $$ </a> <br>
+    <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l4" target="_blank" rel="noopener"> $$\ell=4 $$ </a> </td>
   </tr>
 </table>
