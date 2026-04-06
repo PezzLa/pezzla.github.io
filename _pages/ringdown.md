@@ -39,9 +39,9 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
     <td>
       <b>Kerr excitation Coefficients</b><br><br>
       <b>Data format:</b><br>
-      $a/M, M ω_R, M ω_I,<br>
-      Re(B_{\ell mn}^SN), Im(B_{\ell mn}^SN),<br>
-      m_p^-1 Re(C_{\ell mn}), m_p^-1 Im(C_{\ell mn})
+      $a/M, M ω_R, M ω_I,$<br>
+      $Re(B_{\ell mn}^{SN}), Im(B_{\ell mn}^{SN}),$<br>
+      $m_p^{-1} Re(C_{\ell mn}), m_p^{-1} Im(C_{\ell mn})
       $
     </td>
     <td>
@@ -51,13 +51,13 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
     </td>
     <td>
       <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l2" target="_blank" rel="noopener">
-        ℓ = 2
+        $\ell = 2$
       </a><br>
       <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l3" target="_blank" rel="noopener">
-        ℓ = 3
+        $\ell = 3$
       </a><br>
       <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l4" target="_blank" rel="noopener">
-        ℓ = 4
+        $\ell = 4$
       </a>
     </td>
   </tr>
