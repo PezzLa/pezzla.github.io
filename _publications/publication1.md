@@ -46,6 +46,6 @@ We investigate the (axial) quasinormal modes of black holes embedded in generic 
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="arxiv.org/abs/2412.18651v2" target="_blank" rel="noopener">2412.18651 [gr-qc]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="arxiv.org/abs/2412.18651" target="_blank" rel="noopener">2412.18651 [gr-qc]</a>
 
 <i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/PhysRevD.111.064026" target="_blank" rel="noopener">10.1103/PhysRevD.111.064026</a>
