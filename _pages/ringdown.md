@@ -30,18 +30,17 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
 
 <table style='font-family:"Georgia", serif; font-size:80%'>
   <tr>
-    <th scope="col">Description</th>
-    <th scope="col">Reference(s)</th>
-    <th scope="col">Download</th>
+    <th scope="col";font-size:90%>Description</th>
+    <th scope="col";font-size:90%;align="center">Reference(s)</th>
+    <th scope="col";font-size:90%;align="center">Download</th>
   </tr>
 
   <tr>
     <td>
-      <b>Kerr excitation Coefficients</b><br><br>
-      <b>Data format:</b>
-      $a/M, M \omega_R, M \omega_I,$<br>
-      $Re(B_{\ell mn}^{SN}), Im(B_{\ell mn}^{SN}),$<br>
-      $m_p^{-1} Re(C_{\ell mn}), m_p^{-1} Im(C_{\ell mn})
+      <b>Kerr excitation Coefficients</b><br>
+      <b>Data format:</b><br>
+      $a/M, M \omega_R, M \omega_I,Re(B_{\ell mn}^{SN}),$<br>
+      $Im(B_{\ell mn}^{SN}),m_p^{-1} Re(C_{\ell mn}), m_p^{-1} Im(C_{\ell mn})
       $
     </td>
     <td align="center">
