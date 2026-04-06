@@ -1,0 +1,227 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.archive__item-title a {
+  text-decoration: none;
+}
+
+.archive__item-title a:hover {
+  text-decoration: underline;
+}
+
+.archive__item:hover {
+	transform: scale(1.05);
+	box-shadow: 0px 0px 10px 8px mix(#000, $background-color, 10%);
+}
+
+.talk_date {
+  font-size: .7em;
+}
+
+.talk_venue {
+  font-size: .7em;
+}
+
+.small_grey {
+  font-size: .75em;
+}
+
+.cv_font {
+  font-size: .65em;
+}
+
+.greedy-nav__toggle {
+	background-color: #008CBA;
+}
+
+.greedy-nav .visible-links a:before {
+	background-color: #008CBA;
+}
+
+.author__avatar img {
+	padding: 0px;
+	border: 2px solid #008CBA;
+	box-shadow: 1px 0px 5px 2px mix(#000, $background-color, 10%);
+}
+
+.btn--inverse:hover {
+	transform: scale(1.1);
+}
+
+.fa-envelope-square, .fa-square-envelope{
+	color: $authormail-color;
+}
+
+.ai-orcid {
+  color: $orcid-color;
+}
+
+.ai-scopus {
+  color: $scopus-color;
+}
+
+.ai-scopus {
+  color: $scopus-color;
+}
+
+.ai-inspire {
+  color: $inspire-color;
+}
+
+.ai-ads-square {
+  color: $nasaads-color;
+}
+
+.ai-google-scholar-square {
+	color: $googlesholar-color;
+}
+
+.ai-arxiv {
+	color: $arxiv-color;
+}
+
+.fa-github {
+	color: $github-color;
+}
+.fa-map-marker-alt, .fa-location-dot {
+	color: #EA4335;
+}
+
+.fa-square-rss {
+  color: #ee802f;
+}
+
+.btn-inspire {
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 0px 0px;
+  cursor: pointer;
+  background-color: $inspire-color; 
+  color: white; 
+  border: 3px solid $inspire-color;
+  border-radius: 3px;
+  line-height: 1.2;
+  box-shadow: 0px 0px 5px 2px mix(#000, $background-color, 10%);
+}
+
+
+.inspcitations {
+	position: relative;
+	background: #ffffff;
+	border-radius: 3px;
+	font-size: 14px;
+	line-height: 1.2;
+	color: #041527; 
+	text-align: center;
+	text-decoration: none;
+	margin-left: 3px;
+	padding: 2px 2px;
+	box-shadow: 0px 0px 5px 2px mix(#000, $background-color, 20%);
+}
+
+.inspcitations:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 3px solid transparent;
+	border-right-color: #ffffff;
+	border-left: 0;
+	margin-top: -3px;
+	margin-left: -3px;
+}
+
+.btn--custom {
+  border: 2.5px solid #008CBA;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #008CBA; 
+}
+
+.btn--custom:hover {
+  transform: scale(1.1);
+}
+
+blockquote {
+	margin: 0em 0em 0em 0;
+	border-left: 0.25em solid #008CBA;
+}
+
+p.career {
+  margin-bottom: 0em;
+}
+
+#bibbase_header .dropdown-menu{
+  background-color: $background-color;
+  box-shadow: 0px 5px 10px mix(#000, $background-color, 10%);
+}
+
+#bibbase_body {
+  padding-top: 0em;
+}
+
+.bibbase_group {
+  background-color: #008CBA;
+  color: #fff;
+  font-style: oblique;
+}
+
+#bibbase .well {
+  background-color: #008CBA;
+  border: 1px solid #008CBA;
+  font-size: 11px;
+}
+
+#bibbase .well-small{
+  background-color: #008CBA;
+  border: 1px solid #008CBA;
+  color: #fff;
+  font-size: 11px;
+}
+
+#bibbase_header .dropdown-menu>li>a:hover {
+  background: #008CBA;
+  transition-duration: 0s;
+}
+
+.btn--inverse{
+  background-image: none;
+  text-shadow: none;
+  background-repeat: none;
+  border-color: #008CBA;
+  box-shadow: none;
+  line-height: 15px;
+}
+
+.form-control {
+  border: 2px solid #008CBA;
+  max-width: fit-content(70%);
+}
+
+input:focus, textarea:focus{
+  border-color: #008CBA;
+}
+
+.btn:hover, .btn:focus {
+  background-position: 0 0;
+  transition: none;
+}
