@@ -137,12 +137,13 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Laura-Pezzella-3"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/pezzella-laura/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PezzLa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/pezzella-laura/"
+  
 
 # Site Footer
 footer:
