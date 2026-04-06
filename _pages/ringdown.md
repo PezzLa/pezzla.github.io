@@ -28,7 +28,7 @@ The data listed below are freely available, but remember to reference the origin
 For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it) .
 
 
-<table>
+<table style='font-family:"Georgia", serif; font-size:80%'>
   <tr>
     <th scope="col">Description</th>
     <th scope="col">Reference(s)</th>
@@ -38,18 +38,18 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
   <tr>
     <td>
       <b>Kerr excitation Coefficients</b><br><br>
-      <b>Data format:</b><br>
-      $a/M, M ω_R, M ω_I,$<br>
+      <b>Data format:</b>
+      $a/M, M \omega_R, M \omega_I,$<br>
       $Re(B_{\ell mn}^{SN}), Im(B_{\ell mn}^{SN}),$<br>
       $m_p^{-1} Re(C_{\ell mn}), m_p^{-1} Im(C_{\ell mn})
       $
     </td>
-    <td>
+    <td align="center">
       <a href="https://arxiv.org/abs/2512.07959" target="_blank" rel="noopener">
         arXiv:2512.07959
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l2" target="_blank" rel="noopener">
         $\ell = 2$
       </a><br>
