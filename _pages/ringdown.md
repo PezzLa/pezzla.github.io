@@ -30,9 +30,9 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
 
 <table style='font-family:"Georgia", serif; font-size:80%'>
   <tr>
-    <th scope="col";style='font-size:90%'>Description</th>
-    <th scope="col";style='font-size:90%';align="center">Reference(s)</th>
-    <th scope="col";style='font-size:90%';align="center">Download</th>
+    <th scope="col">Description</th>
+    <th scope="col"; align="center">Reference(s)</th>
+    <th scope="col" ;align="center">Download</th>
   </tr>
 
   <tr>
