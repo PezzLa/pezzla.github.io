@@ -43,12 +43,12 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
       $Im(B_{\ell mn}^{SN}),m_p^{-1} Re(C_{\ell mn}), m_p^{-1} Im(C_{\ell mn})
       $
     </td>
-    <td align="center">
+    <td>
       <a href="https://arxiv.org/abs/2512.07959" target="_blank" rel="noopener">
         arXiv:2512.07959
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l2" target="_blank" rel="noopener">
         $\ell = 2$
       </a><br>
