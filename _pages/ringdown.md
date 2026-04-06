@@ -19,9 +19,14 @@ which are initial-data independent, and the source-dependent integral.
 Here you can find data for:
 
 <ul>
-  <li> the <b> excitation factors </b> of Kerr quasinormal modes for circular, equatorial plunges. </li>
-  <li> more to follow! </li>
+  <li> the <b> excitation factors </b> of Kerr quasinormal modes for circular, equatorial plunges; </li>
+  <li> more to come! </li>
 </ul> 
+
+The data listed below are freely available, but remember to reference the original work(s)!
+
+For additional requests, send me a mail at [laura.pezzella@gssi.it](mailto:laura.pezzella@gssi.it) .
+
 
 <table>
   <tr>
