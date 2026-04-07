@@ -48,7 +48,7 @@ For additional requests, send me an email at [laura.pezzella@gssi.it](mailto:lau
         arXiv:2512.07959
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/PezzLa/Excitation-Coefficients-Kerr/tree/main/Circular%20equatorial/l2" target="_blank" rel="noopener">
         $\ell = 2$
       </a><br>
