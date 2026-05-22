@@ -25,6 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PezzLa/pezzla.github.io.git" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
+talkmap_link             : true      #change to true to add link to talkmap on talks page
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
