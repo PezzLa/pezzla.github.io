@@ -2,10 +2,11 @@
 title: "7) Environmental imprints on black hole ringdowns: quasinormal modes in matter halos"
 collection: talks
 type: "Contributed talk"
-venue: "XV ET Symposium"
+event: "XV ET Symposium"
+venue: "Consiglio Nazionale delle Ricerche (CNR)"
 date: 2025-05-27
 link: "https://indico.ego-gw.it/event/819/"
-location: "Bologna (IT)"
+location: "Bologna, IT"
 ---
 
 I discussed about the effect of the presence of Dark Matter Halos on the Quasi-Normal Modes.

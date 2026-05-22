@@ -2,10 +2,11 @@
 title: "10) Quasinormal Ringing of Kerr Black Holes from an Equatorial Plunge"
 collection: talks
 type: "Contributed talk"
-venue: "XVIII Black Holes Workshop"
+event: "XVIII Black Holes Workshop"
+venue: "Instituto Superior Tecnico"
 date: 2025-12-19
 link: "https://fisica.tecnico.ulisboa.pt/en/bhw-xviii/"
-location: "Lisbon (PT)"
+location: "Lisbon, PT"
 ---
 
 I discussed about the excitation coefficients for a circular, equatorial plunge in frequency domain.

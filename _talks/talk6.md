@@ -2,10 +2,11 @@
 title: "6) Environmental imprints on black hole ringdowns"
 collection: talks
 type: "Contributed talk"
-venue: "5th Meeting on GW Science in Scandinavia"
+event: "5th Meeting on GW Science in Scandinavia"
+venue: "Niels Bohr Institute"
 date: 2025-05-16
 link: "https://strong-gr.com/5th-meeting-on-gravitational-wave-science-in-scandinavia/"
-location: "Copenhagen (DK)"
+location: "Copenhagen, DK"
 ---
 
 I discussed about the effect of the presence of Dark Matter Halos on the Quasi-Normal Modes.

@@ -2,10 +2,11 @@
 title: "11) Quasinormal Ringing of Kerr Black Holes from an Equatorial Plunge"
 collection: talks
 type: "Contributed talk"
-venue: "XVI ET Symposium"
+event: "XVI ET Symposium"
+venue: "RWTH Aachen"
 date: 2026-06-16
 link: "https://https://indico.ego-gw.it/event/960/"
-location: "Aachen (DE)"
+location: "Aachen, DE"
 ---
 
 I will discuss about the excitation coefficients for a circular, equatorial plunge in frequency domain.

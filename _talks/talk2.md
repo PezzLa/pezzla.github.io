@@ -3,10 +3,11 @@ title: "2)* Quasi Normal Modes of black holes surrounded by dark
 matter halos"
 collection: talks
 type: "Invited talk"
-venue: "Women in Theoretical Physics, Premio Nazionale Milla Baldo Ceolin"
+event: "Women in Theoretical Physics, Premio Nazionale Milla Baldo Ceolin"
+venue: "Galileo Galilei Institute (GGI)"
 date: 2024-10-08
 link: "https://www.ggi.infn.it/showevent.pl?id=522"
-location: "Galileo Galilei Institute (GGI)"
+location: "Arceteri, IT"
 ---
 
 I discussed about the effect of the presence of Dark Matter Halos on the Quasi-Normal Modes.

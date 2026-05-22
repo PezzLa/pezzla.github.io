@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 venue: "Johns Hopkins University"
 date: 2025-10-23
-location: "Baltimore, MD (USA)"
+location: "Baltimore, MD, USA"
 ---
 
 I discussed about the excitation coefficients for a circular, equatorial plunge in frequency domain.
