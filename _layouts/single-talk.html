@@ -38,10 +38,16 @@ classes: wide
 
       <!--Date Line-->
       {% if page.date %}
-          <div class="talk_date"><i class="far fa-clock" aria-hidden="true"></i> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
+          <div class="talk_date"><i class="far fa-calendar" aria-hidden="true"></i> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
+          {% if page.event %}
+              <div class="talk_event"><i class="far fa-building-columns"></i> {{ page.event }}</div>
+          {% endif %}
           <div class="talk_venue"><i class="far fa-map"></i> {{ page.venue }}, {{ page.location }}</div>
       {% endif %}
+      
+      
 
+      
       <!--Page content-->
       <p></p>
       <section class="page__content" itemprop="text">
