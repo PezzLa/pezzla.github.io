@@ -29,9 +29,9 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: $georgia !default;
+$header-font-family: $georgia !default;
+$caption-font-family: $garamond !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
@@ -66,9 +66,9 @@ $primary-color: #7a8288 !default;
 $success-color: #62c462 !default;
 $warning-color: #f89406 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #52adc8 !default;
+$info-color: #8080e8 !default;
 
-$authormail-color: #2450E3 !default;
+$authormail-color: #1a1aff !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -108,7 +108,7 @@ $arxiv-color: #A52C25 !default;
 
 
 /* links */
-$link-color: #008CBA !default;
+$link-color: #6666ff !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
