@@ -40,7 +40,7 @@ classes: wide
       {% if page.date %}
           <div class="talk_date"><i class="far fa-calendar" aria-hidden="true"></i> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
           {% if page.event %}
-              <div class="talk_event"><i class="far fa-building-columns" aria-hidden="true"></i> {{ page.event }}</div>
+              <div class="talk_event"><i class="far fa-people-group" aria-hidden="true"></i> {{ page.event }}</div>
           {% endif %}
           <div class="talk_venue"><i class="far fa-map"></i> {{ page.venue }}, {{ page.location }}</div>
       {% endif %}
