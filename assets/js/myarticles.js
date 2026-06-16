@@ -101,7 +101,7 @@ function makearXiv(feed)
 {
     var x = 0;
     //Much of this style is taken from https://arxiv.org/arXiv.css
-    var html = '<div id="arxivcontainer" style="font-family:Lucida Grande,helvetica, arial, verdana,sans-serif;margin:.7em;font-size:90%">\n';
+    var html = '<div id="arxivcontainer" style="font-family:georgia,serif;margin:.7em;font-size:100%">\n';
     var format_name = '';
     //If title, add as an h3, similar to the arxiv.org/list/*subject*/new
     if (arxiv_includeTitle !== 0) {
