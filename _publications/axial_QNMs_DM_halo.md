@@ -1,7 +1,7 @@
 ---
 title: "Quasinormal modes of black holes embedded in halos of matter"
 collection: publications
-permalink: /publications/publication1
+permalink: /publications/axial_QNMs_DM_halo
 excerpt: "We investigate the (axial) quasinormal modes of black holes embedded in generic matter profiles. A public code is also released."
 date: 2025-03-07
 venue: 'Phys. Rev. D 111, 064026'
