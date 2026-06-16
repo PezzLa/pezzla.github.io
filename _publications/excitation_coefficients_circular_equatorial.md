@@ -1,7 +1,7 @@
 ---
 title: "Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit"
 collection: publications
-permalink: /publications/publication2
+permalink: /publications/excitation_coefficients_circular_equatorial
 excerpt: "We compute the quasinormal mode excitation coefficients in the frequency domain for circular, equatorial orbits."
 date: 2025-12-08
 venue: ''
