@@ -43,24 +43,24 @@ h2 {
 }
 
 h3 {
-  font-size: $type-size-5;
+  font-size: $type-size-6;
 }
 
 h4 {
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 }
 
 h5 {
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 }
 
 h6 {
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 }
 
 small,
 .small {
-  font-size: $type-size-6;
+  font-size: $type-size-8;
 }
 
 p {
@@ -168,7 +168,7 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   background: $code-background-color;
   border-radius: $border-radius;
 
@@ -266,7 +266,7 @@ figcaption {
   margin-bottom: 0.5em;
   color: $muted-text-color;
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   a {
     -webkit-transition: $global-transition;
