@@ -70,12 +70,13 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-size:  $type-size-5 /*1em*/;
   }
 
   p,
   li,
   dl {
-    font-size:  $type-size-5 /*1em*/;
+    font-size:  $type-size-6 /*1em*/;
   }
 
   /* paragraph indents */
@@ -87,6 +88,7 @@
       & + p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
+        font-size: $type-size-6;
       }
     }
   }
@@ -111,7 +113,7 @@
   dd {
     margin-left: 1em;
     font-family: $georgia;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
   }
 
   .small {
@@ -490,7 +492,7 @@
 
 .page__related-title {
   margin-bottom: 10px;
-  font-size: $type-size-7;
+  font-size: $type-size-5;
   text-transform: uppercase;
 }
 

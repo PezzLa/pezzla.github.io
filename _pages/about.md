@@ -9,11 +9,11 @@ redirect_from:
 classes: wide
 ---
 
-PhD studend at Gran Sasso Science Institute. 
+PhD student at Gran Sasso Science Institute. 
 
 ## Professional
 
-Writing in progress :) .
+Writing in progress :) 
 
 ## Personal
 Writing in progress :) 

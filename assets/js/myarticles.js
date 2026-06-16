@@ -199,7 +199,7 @@ function makearXiv(feed)
 function makePrettyarXiv(feed)
 {
 	//First add the feed title inside of a div
-	var html = '<div id="arxivcontainer" style="width:250px; border:solid 2px #CCCCFF;font-family:sans-serif;font-size:10px; background-color:#' + arxiv_bg_color +';border-radius: 8px;">';
+	var html = '<div id="arxivcontainer" style="width:250px; border:solid 2px #CCCCFF;font-family:serif;font-size:12px; background-color:#' + arxiv_bg_color +';border-radius: 8px;">';
 	if (arxiv_includeTitle == 1) {
 		html += '<div id="feedtitle" style="font-size:14px; padding-top:5px; padding-bottom:5px; text-align:center;">';
 		//Title has an &apos; in it which won't display correctly on some browsers (IE being 
@@ -223,9 +223,9 @@ function makePrettyarXiv(feed)
 	} 
 	for (x=0; x<num_entries; x++) {
 		//First add the title-link element as a entrytitle div
-		html += '<div class="entry" style="style="font-size:12px;padding-left:6px;width:244px;background-color:#'+arxiv_entry_color+'">';
+		html += '<div class="entry" style="font-size:12px;padding-left:6px;width:244px;background-color:#'+arxiv_entry_color+'">';
 		//Title and authors
-		html += '<div class="entrytitle"><a style="color:#505E91;" href="' + feed.entries[x].id + '" target="_blank" rel="noopener">' + feed.entries[x].title + '</a></div>';
+		html += '<div class="entrytitle"><a style="font-size:12px;color:#505E91;" href="' + feed.entries[x].id + '" target="_blank" rel="noopener">' + feed.entries[x].title + '</a></div>';
 		// Add only up to 10 authors (et al. if more)
 		if ((feed.entries[x].authors.split(',').length) > 10) {
 			let authorsArray = feed.entries[x].authors.split(',');
