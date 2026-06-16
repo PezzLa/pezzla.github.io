@@ -31,7 +31,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $serif-narrow;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -80,7 +80,7 @@
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-8;
+  font-size: $type-size-7;
   background: #000;
   text-align: right;
   z-index: 5;
@@ -180,7 +180,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
   }
 
   .archive__item-excerpt {
