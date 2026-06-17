@@ -11,10 +11,10 @@ classes: wide
 
 PhD student at Gran Sasso Science Institute. 
 
-## Professional
+# Professional
 
 Writing in progress :) 
 
-## Personal
+# Personal
 Writing in progress :) 
 
