@@ -14,7 +14,7 @@ Here is where I shared my research during these years. Invited talks marked with
 
 {% if site.talkmap_link == true %}
 Or see it here:
-<iframe src="pezzla.github.io/talkmap/map.html" height="500" width="500"></iframe>
+<iframe src="https://pezzla.github.io/talkmap/map.html" height="500" width="500"></iframe>
 {% endif %}
 
 {% for post in site.talks reversed %}
